@@ -1,7 +1,7 @@
 sails-restricted-attributes
 ===========================
 
-Service for SailsJS framework that allows you to restrict access to certain model attributes based on user permissions and provide more granular control.
+Service for SailsJS framework that allows you to restrict access to certain model attributes based on user permissions and provide more granular control. This GitHub issue on Sails further describes the issue being address
 
 Installation
 -----
